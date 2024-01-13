@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvir-ahmed-pavel
-- 👀 I’m interested in 404
-- 🌱 I’m currently learning how to improvise myself
+- 👀 Commits are low because for work I use different account
+- 🌱 I’m currently on my way to advance software engineering
 - 📫 How to reach me pavel.ahmed.0720@gmail.com
 
 <!---
