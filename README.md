@@ -1,4 +1,4 @@
-- Hi, I’m @tanvir-ahmed-pavel
+- Hi, I’m Tanvir Ahmed Pavel (@tanvir-ahmed-pavel)
 - Commits are low because for work I use different account
 - I’m currently on my way to advance software engineering
 - How to reach me pavel.ahmed.0720@gmail.com
